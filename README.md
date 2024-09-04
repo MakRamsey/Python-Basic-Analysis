@@ -15,7 +15,7 @@ The second analysis found within the 'PyPoll' directory, aggregates a generated 
     - "budget_data.csv"
   - "PyBank_main.py"
  
-- 'PyPoll' directory
+- 'PyPoll' directory:
   - 'Analysis' directory:
     - "Py_Poll_Analysis.txt"
   - 'Resources' directory:
